@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Palak
+- 🌱 Currently learning C++
+- 💞️ Looking to collaborate on C++ projects
